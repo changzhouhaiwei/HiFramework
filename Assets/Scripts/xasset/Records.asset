@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04d4b10611b54474c9d5d0777bfb3989, type: 3}
+  m_Name: Records
+  m_EditorClassIdentifier: 
+  data:
+  - file: arts_v2_fed446c22d705784ee3dbee51a5372b2.json
+    size: 56932
+    timestamp: 133308054470067312
+    date: "2023\u5E7406\u670810\u65E5-01\u65F630\u520647\u79D2"
+    platform: Windows
+    elapsed: 2.901
+    changes:
+    - assets_assetbundle_prefab_common_amoduleexample_prefab_e5898a2f28b708f4d105b12432e8c0cc
+    - assets_assetbundle_prefab_common_uimgrnode_prefab_4ff47c3463936c9547421f4d7c68da48
+    - assets_assetbundle_prefab_login_loginpanel_prefab_f2f05fde3baeaf0b4181129cc32c9120
+    - assets_scenes_loginscene_unity_d4a36a01cbccb027bb16debc742a88f4
+    - arts_v2_fed446c22d705784ee3dbee51a5372b2.json
+    - versions_18b580b7cfc8517db8ebd93325b408e4.json
+    build: Arts
+  - file: arts_v1_2755e681c8d1b24d4514a15e5a03f8d6.json
+    size: 1217656
+    timestamp: 133308012138011759
+    date: "2023\u5E7406\u670810\u65E5-00\u65F620\u520613\u79D2"
+    platform: Windows
+    elapsed: 5.684
+    changes:
+    - assets_assetbundle_imageatlas_chat_res_47bd1532273b0cebb3c02d591f0495ed
+    - assets_assetbundle_imageatlas_comm_btn_222a10ec88ad334db8604c4b59a22a35
+    - assets_assetbundle_imageatlas_comm_frame_d6843bf0fe6845c4233e4022e5fb268e
+    - assets_assetbundle_imageatlas_comm_tips_d8989269fe5cc5aa5fc4b2d4ea74cd71
+    - assets_assetbundle_imageatlas_comm_ui_f5d63a11b000865c9d825a5f899121f1
+    - assets_assetbundle_imageatlas_corps_a67072cd892c206e1695e391e8e17c7b
+    - assets_assetbundle_imageatlas_guide_bc369d081cee79c7222d42c063750251
+    - assets_assetbundle_imageatlas_homeui_597483235f76c572eb2a4bdab22a8d9e
+    - assets_assetbundle_imageatlas_homeui_old_9d0d075532ac7999c2ab93c4da9ebca7
+    - assets_assetbundle_imageatlas_little_game_3c1f20a37da83ffe7fdbf81bced9d764
+    - assets_assetbundle_imageatlas_loading_ea64b933258e4dc5702a41ae1acca1e3
+    - assets_assetbundle_imageatlas_old_common_ui_1b3aaa6123fbcb8a1f85dbc3a6fb3b50
+    - assets_assetbundle_imageatlas_play_info_ui_b7c764c78e1c781a9514b8dbd331eb18
+    - assets_scenes_fightscene_unity_437f7a441d5f78f19a535d48059c5555
+    - assets_scenes_homescene_unity_fbba57a0db6c5515dc616e5ffa42a699
+    - assets_scenes_loginscene_unity_a1f59749786f9c25b380ff46fd144bf4
+    - assets_scenes_logoscene_unity_ee9c7c04daeafa4cb16e19660860de81
+    - arts_v1_2755e681c8d1b24d4514a15e5a03f8d6.json
+    - versions_22125db1e442b3c1580affad2d6555ea.json
+    build: Arts
