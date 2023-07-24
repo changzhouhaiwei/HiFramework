@@ -1,0 +1,15 @@
+NeedToChange:
+1.每天思考自己的框架，多少写点儿。
+2.结合自己的知识盲区丰富在此处。
+3.学习三分练习七分，不要故步自封。
+4.解读其他人的架构,如QFramework
+
+
+Framework make plan?
+.网络框架编写
+.状态机控制游戏流程
+.异步UI加载框架
+.资源管理器xasset
+
+
+use Framework make demo game?
