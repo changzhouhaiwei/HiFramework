@@ -1,0 +1,894 @@
+xiaohuoban.png
+size:665,665
+filter:Linear,Linear
+pma:true
+UFO 影子
+bounds:440,308,59,18
+UFO33UFO 绿
+bounds:2,202,100,78
+offsets:1,1,102,80
+rotate:90
+UFO34UFO 蓝
+bounds:424,585,100,78
+offsets:1,1,102,80
+UFO35UFO 红
+bounds:2,100,100,78
+offsets:1,1,102,80
+rotate:90
+UFO36UFO 紫
+bounds:526,585,100,78
+offsets:1,1,102,80
+上钳(2)29螃蟹 红
+bounds:624,410,34,39
+offsets:1,1,36,41
+rotate:90
+上钳(2)30螃蟹 灰
+bounds:624,374,34,39
+offsets:1,1,36,41
+rotate:90
+上钳(2)31螃蟹 金
+bounds:429,77,34,39
+offsets:1,1,36,41
+上钳(2)32螃蟹 粉
+bounds:465,77,34,39
+offsets:1,1,36,41
+上钳29螃蟹 红
+bounds:377,23,34,39
+offsets:1,1,36,41
+rotate:90
+上钳30螃蟹 灰
+bounds:429,41,34,39
+offsets:1,1,36,41
+rotate:90
+上钳31螃蟹 金
+bounds:470,36,34,39
+offsets:1,1,36,41
+上钳32螃蟹 粉
+bounds:501,77,34,39
+offsets:1,1,36,41
+下钳(2)29螃蟹 红
+bounds:537,93,24,21
+offsets:1,1,26,23
+rotate:90
+下钳(2)30螃蟹 灰
+bounds:541,51,24,21
+offsets:1,1,26,23
+rotate:90
+下钳(2)31螃蟹 金
+bounds:576,124,24,21
+offsets:1,1,26,23
+下钳(2)32螃蟹 粉
+bounds:545,14,24,21
+offsets:1,1,26,23
+rotate:90
+下钳29螃蟹 红
+bounds:602,138,24,21
+offsets:1,1,26,23
+下钳30螃蟹 灰
+bounds:602,115,24,21
+offsets:1,1,26,23
+下钳31螃蟹 金
+bounds:628,114,24,21
+offsets:1,1,26,23
+rotate:90
+下钳32螃蟹 粉
+bounds:560,93,24,21
+offsets:1,1,26,23
+rotate:90
+乌云面包人
+bounds:616,532,51,47
+rotate:90
+刺猬影子
+bounds:221,461,71,27
+剑(2)勇者
+bounds:567,232,33,45
+offsets:1,1,35,47
+史莱姆影子
+bounds:293,426,89,27
+嘴巴面包人
+bounds:342,69,13,6
+offsets:1,2,15,9
+rotate:90
+图层2433UFO 绿
+bounds:75,14,84,19
+offsets:1,1,86,21
+rotate:90
+灯35UFO 红
+bounds:75,14,84,19
+offsets:1,1,86,21
+rotate:90
+图层2838蜜蜂 橙
+bounds:440,393,27,10
+offsets:1,1,29,12
+rotate:90
+图层2839蜜蜂 粉
+bounds:440,393,27,10
+offsets:1,1,29,12
+rotate:90
+图层2840蜜蜂
+bounds:440,393,27,10
+offsets:1,1,29,12
+rotate:90
+图层2940蜜蜂
+bounds:120,4,24,8
+offsets:1,1,26,10
+外星人33UFO 绿
+bounds:503,336,51,33
+offsets:1,1,53,35
+rotate:90
+外星人34UFO 蓝
+bounds:144,116,59,42
+offsets:1,1,61,44
+外星人35UFO 红
+bounds:299,23,59,41
+offsets:1,1,61,43
+rotate:90
+外星人36UFO 紫
+bounds:368,186,59,38
+offsets:1,1,61,40
+头勇者
+bounds:221,268,74,73
+offsets:1,1,76,75
+头身体17鼠 灰
+bounds:2,5,71,93
+头身体18鼠 棕
+bounds:110,403,71,93
+rotate:90
+头身体19鼠 黑
+bounds:84,308,71,93
+头身体20鼠 一只耳
+bounds:221,490,71,91
+offsets:0,0,71,93
+尾巴17鼠 灰
+bounds:305,147,29,37
+offsets:0,0,30,37
+尾巴18鼠 棕
+bounds:305,147,29,37
+offsets:0,0,30,37
+尾巴19鼠 黑
+bounds:305,147,29,37
+offsets:0,0,30,37
+尾巴20鼠 一只耳
+bounds:305,147,29,37
+offsets:0,0,30,37
+心21史莱姆 蓝
+bounds:205,407,16,14
+offsets:1,1,18,16
+rotate:90
+心脏22史莱姆 绿
+bounds:205,407,16,14
+offsets:1,1,18,16
+rotate:90
+心脏23史莱姆 橙
+bounds:205,407,16,14
+offsets:1,1,18,16
+rotate:90
+心脏24史莱姆 银
+bounds:205,407,16,14
+offsets:1,1,18,16
+rotate:90
+手(2)面包人
+bounds:557,119,11,15
+offsets:2,1,14,17
+rotate:90
+手117鼠 灰
+bounds:395,2,19,18
+offsets:1,1,21,20
+rotate:90
+手118鼠 棕
+bounds:415,2,19,18
+offsets:1,1,21,20
+rotate:90
+手119鼠 黑
+bounds:568,73,19,18
+offsets:1,1,21,20
+手120鼠 一只耳
+bounds:564,53,19,18
+offsets:1,1,21,20
+手217鼠 灰
+bounds:326,2,21,19
+offsets:1,1,23,21
+手218鼠 棕
+bounds:349,2,21,19
+offsets:1,1,23,21
+手220鼠 一只耳
+bounds:349,2,21,19
+offsets:1,1,23,21
+手219鼠 黑
+bounds:372,2,21,19
+offsets:1,1,23,21
+手225蛙 绿
+bounds:418,23,13,13
+offsets:1,1,15,15
+手226蛙 蓝
+bounds:604,75,13,13
+offsets:1,1,15,15
+手227蛙 黄
+bounds:604,90,13,13
+offsets:1,1,15,15
+手228蛙 红
+bounds:619,88,13,13
+offsets:1,1,15,15
+手25蛙 绿
+bounds:646,140,14,12
+offsets:1,1,16,14
+rotate:90
+手26蛙 蓝
+bounds:554,77,14,12
+offsets:1,1,16,14
+rotate:90
+手27蛙 黄
+bounds:585,57,14,12
+offsets:1,1,16,14
+rotate:90
+手28蛙 红
+bounds:599,59,14,12
+offsets:1,1,16,14
+rotate:90
+手勇者
+bounds:604,176,34,34
+offsets:1,1,36,36
+手面包人
+bounds:648,90,12,15
+offsets:1,1,14,17
+rotate:90
+果子8刺猬 金
+bounds:205,425,86,34
+offsets:1,1,88,36
+毛发1鸟 麻雀
+bounds:110,476,80,101
+毛发2鸟 蓝鸟
+bounds:218,583,80,101
+rotate:90
+毛发3鸟 乌鸦
+bounds:2,304,80,101
+毛发4鸟 白鸽
+bounds:321,583,80,101
+rotate:90
+灯34UFO 蓝
+bounds:620,446,84,19
+offsets:1,1,86,21
+rotate:90
+灯36UFO 紫
+bounds:641,446,84,19
+offsets:1,1,86,21
+rotate:90
+盾勇者
+bounds:480,160,45,44
+offsets:1,1,47,47
+眼睛10蝙蝠 紫
+bounds:628,585,30,8
+offsets:1,1,32,10
+眼睛11蝙蝠 黑
+bounds:628,585,30,8
+offsets:1,1,32,10
+眼睛12蝙蝠 红
+bounds:628,585,30,8
+offsets:1,1,32,10
+眼睛9蝙蝠 蓝
+bounds:628,585,30,8
+offsets:1,1,32,10
+眼睛13蝴蝶 黄
+bounds:205,136,22,7
+offsets:1,1,24,9
+rotate:90
+眼睛14蝴蝶 蓝
+bounds:205,136,22,7
+offsets:1,1,24,9
+rotate:90
+眼睛15蝴蝶 白
+bounds:205,136,22,7
+offsets:1,1,24,9
+rotate:90
+眼睛16蝴蝶 绿
+bounds:205,136,22,7
+offsets:1,1,24,9
+rotate:90
+眼睛17鼠 灰
+bounds:518,321,18,13
+offsets:1,1,20,15
+眼睛18鼠 棕
+bounds:518,321,18,13
+offsets:1,1,20,15
+眼睛19鼠 黑
+bounds:518,321,18,13
+offsets:1,1,20,15
+眼睛20鼠 一只耳
+bounds:518,321,18,13
+offsets:1,1,20,15
+眼睛21史莱姆 蓝
+bounds:640,177,21,21
+offsets:1,1,23,23
+眼睛22史莱姆 绿
+bounds:640,177,21,21
+offsets:1,1,23,23
+眼睛23史莱姆 橙
+bounds:640,177,21,21
+offsets:1,1,23,23
+眼睛24史莱姆 银
+bounds:640,177,21,21
+offsets:1,1,23,23
+眼睛25蛙 绿
+bounds:517,118,27,14
+offsets:1,1,29,16
+rotate:90
+眼睛26蛙 蓝
+bounds:517,118,27,14
+offsets:1,1,29,16
+rotate:90
+眼睛27蛙 黄
+bounds:517,118,27,14
+offsets:1,1,29,16
+rotate:90
+眼睛28蛙 红
+bounds:517,118,27,14
+offsets:1,1,29,16
+rotate:90
+眼睛29螃蟹 红
+bounds:82,281,21,12
+offsets:1,1,23,14
+rotate:90
+眼睛30螃蟹 灰
+bounds:82,281,21,12
+offsets:1,1,23,14
+rotate:90
+眼睛31螃蟹 金
+bounds:82,281,21,12
+offsets:1,1,23,14
+rotate:90
+眼睛32螃蟹 粉
+bounds:82,281,21,12
+offsets:1,1,23,14
+rotate:90
+眼睛37蜜蜂 黄
+bounds:601,105,24,8
+offsets:1,1,26,10
+眼睛38蜜蜂 橙
+bounds:601,105,24,8
+offsets:1,1,26,10
+眼睛39蜜蜂 粉
+bounds:601,105,24,8
+offsets:1,1,26,10
+眼睛5刺猬 棕
+bounds:647,200,19,16
+offsets:1,1,21,18
+rotate:90
+眼睛勇者
+bounds:503,308,26,13
+offsets:1,1,28,15
+rotate:90
+眼睛面包人
+bounds:567,279,29,38
+offsets:1,1,31,40
+瞳孔(2)7刺猬 黑色
+bounds:647,156,19,16
+offsets:1,1,21,18
+rotate:90
+瞳孔(2)8刺猬 金
+bounds:628,140,19,16
+offsets:1,1,21,18
+rotate:90
+瞳孔6刺猬 蓝色
+bounds:583,103,19,16
+offsets:1,1,21,18
+rotate:90
+线21史莱姆 蓝
+bounds:452,451,84,60
+线22史莱姆 绿
+bounds:452,389,84,60
+线23史莱姆 橙
+bounds:538,381,84,60
+线24史莱姆 银
+bounds:221,206,84,60
+线25蛙 绿
+bounds:388,422,62,65
+线26蛙 蓝
+bounds:157,242,62,65
+线27蛙 黄
+bounds:297,276,62,65
+线28蛙 红
+bounds:361,289,62,65
+翅膀(2)10蝙蝠 紫
+bounds:336,151,31,26
+offsets:1,1,33,28
+翅膀(2)11蝙蝠 黑
+bounds:569,204,31,26
+offsets:1,1,33,28
+翅膀(2)12蝙蝠 红
+bounds:489,3,31,26
+offsets:1,1,33,28
+rotate:90
+翅膀(2)9蝙蝠 蓝
+bounds:517,7,31,26
+offsets:1,1,33,28
+rotate:90
+翅膀(3)13蝴蝶 黄
+bounds:96,245,59,61
+翅膀(3)14蝴蝶 蓝
+bounds:307,213,59,61
+翅膀(3)15蝴蝶 白
+bounds:368,226,59,61
+翅膀(3)16蝴蝶 绿
+bounds:440,328,59,61
+rotate:90
+翅膀(4)37蜜蜂 黄
+bounds:429,257,44,49
+翅膀(4)38蜜蜂 橙
+bounds:429,257,44,49
+翅膀(4)39蜜蜂 粉
+bounds:429,206,44,49
+翅膀(4)40蜜蜂
+bounds:475,257,44,49
+翅膀10蝙蝠 紫
+bounds:307,186,32,25
+offsets:1,1,34,27
+翅膀11蝙蝠 黑
+bounds:341,179,32,25
+offsets:1,1,34,27
+rotate:90
+翅膀11鸟 麻雀
+bounds:75,2,22,10
+offsets:1,1,24,12
+翅膀12鸟 蓝鸟
+bounds:75,2,22,10
+offsets:1,1,24,12
+翅膀13鸟 乌鸦
+bounds:75,2,22,10
+offsets:1,1,24,12
+翅膀14鸟 白鸽
+bounds:75,2,22,10
+offsets:1,1,24,12
+翅膀12蝙蝠 红
+bounds:435,2,32,25
+offsets:1,1,34,27
+rotate:90
+翅膀13蝴蝶 黄
+bounds:82,100,60,61
+翅膀14蝴蝶 蓝
+bounds:538,319,60,61
+rotate:90
+翅膀15蝴蝶 白
+bounds:601,312,60,61
+rotate:90
+翅膀16蝴蝶 绿
+bounds:288,84,60,61
+翅膀21鸟 麻雀
+bounds:533,119,22,11
+offsets:1,1,24,13
+翅膀22鸟 蓝鸟
+bounds:533,119,22,11
+offsets:1,1,24,13
+翅膀23鸟 乌鸦
+bounds:533,119,22,11
+offsets:1,1,24,13
+翅膀24鸟 白鸽
+bounds:533,119,22,11
+offsets:1,1,24,13
+翅膀37蜜蜂 黄
+bounds:475,206,44,49
+翅膀38蜜蜂 橙
+bounds:475,206,44,49
+翅膀39蜜蜂 粉
+bounds:429,160,44,49
+rotate:90
+翅膀40蜜蜂
+bounds:521,268,44,49
+翅膀9蝙蝠 蓝
+bounds:462,2,32,25
+offsets:1,1,34,27
+rotate:90
+翅膀下(2)13蝴蝶 黄
+bounds:527,162,42,40
+rotate:90
+翅膀下(2)14蝴蝶 蓝
+bounds:602,254,42,40
+翅膀下(2)15蝴蝶 白
+bounds:602,212,42,40
+翅膀下(2)16蝴蝶 绿
+bounds:369,144,42,40
+翅膀下(3)37蜜蜂 黄
+bounds:628,630,35,33
+翅膀下(3)38蜜蜂 橙
+bounds:628,630,35,33
+翅膀下(3)39蜜蜂 粉
+bounds:628,595,35,33
+翅膀下(3)40蜜蜂
+bounds:394,102,35,33
+rotate:90
+翅膀下13蝴蝶 黄
+bounds:350,102,42,40
+翅膀下14蝴蝶 蓝
+bounds:429,118,42,40
+翅膀下15蝴蝶 白
+bounds:473,118,42,40
+翅膀下16蝴蝶 绿
+bounds:350,60,42,40
+翅膀下37蜜蜂 黄
+bounds:342,23,35,33
+rotate:90
+翅膀下38蜜蜂 橙
+bounds:342,23,35,33
+rotate:90
+翅膀下39蜜蜂 粉
+bounds:506,40,35,33
+rotate:90
+翅膀下40蜜蜂
+bounds:569,167,35,33
+rotate:90
+脚(2)5刺猬 棕
+bounds:585,48,7,13
+offsets:1,1,9,15
+rotate:90
+脚(2)7刺猬 黑色
+bounds:585,48,7,13
+offsets:1,1,9,15
+rotate:90
+脚(2)8刺猬 金
+bounds:585,48,7,13
+offsets:1,1,9,15
+rotate:90
+脚(2)6刺猬 蓝色
+bounds:614,37,7,13
+offsets:1,1,9,15
+rotate:90
+脚(3)5刺猬 棕
+bounds:629,36,7,13
+offsets:1,1,9,15
+rotate:90
+脚(3)7刺猬 黑色
+bounds:629,36,7,13
+offsets:1,1,9,15
+rotate:90
+脚(3)8刺猬 金
+bounds:629,36,7,13
+offsets:1,1,9,15
+rotate:90
+脚(3)6刺猬 蓝色
+bounds:211,5,7,13
+offsets:1,1,9,15
+rotate:90
+脚(4)5刺猬 棕
+bounds:226,5,7,13
+offsets:1,1,9,15
+rotate:90
+脚(4)7刺猬 黑色
+bounds:226,5,7,13
+offsets:1,1,9,15
+rotate:90
+脚(4)8刺猬 金
+bounds:226,5,7,13
+offsets:1,1,9,15
+rotate:90
+脚(4)6刺猬 蓝色
+bounds:241,5,7,13
+offsets:1,1,9,15
+rotate:90
+脚(5)25蛙 绿
+bounds:634,88,12,13
+offsets:1,1,14,15
+脚(6)面包人
+bounds:205,119,7,15
+offsets:1,1,9,17
+脚(7)勇者
+bounds:570,147,18,25
+offsets:1,1,20,27
+rotate:90
+脚117鼠 灰
+bounds:635,73,12,13
+offsets:1,1,14,15
+脚118鼠 棕
+bounds:629,59,12,13
+offsets:1,1,14,15
+rotate:90
+脚119鼠 黑
+bounds:600,44,12,13
+offsets:1,1,14,15
+脚120鼠 一只耳
+bounds:614,46,12,13
+offsets:1,1,14,15
+rotate:90
+脚129螃蟹 红
+bounds:418,38,9,19
+offsets:1,1,11,21
+脚130螃蟹 灰
+bounds:418,38,9,19
+offsets:1,1,11,21
+脚131螃蟹 金
+bounds:418,38,9,19
+offsets:1,1,11,21
+脚132螃蟹 粉
+bounds:418,38,9,19
+offsets:1,1,11,21
+脚217鼠 灰
+bounds:619,74,12,14
+offsets:1,1,14,16
+rotate:90
+脚218鼠 棕
+bounds:649,76,12,14
+offsets:1,1,14,16
+rotate:90
+脚219鼠 黑
+bounds:649,62,12,14
+offsets:1,1,14,16
+rotate:90
+脚220鼠 一只耳
+bounds:613,60,12,14
+offsets:1,1,14,16
+rotate:90
+脚226蛙 蓝
+bounds:629,45,12,13
+offsets:1,1,14,15
+rotate:90
+脚227蛙 黄
+bounds:644,47,12,13
+offsets:1,1,14,15
+脚228蛙 红
+bounds:644,32,12,13
+offsets:1,1,14,15
+脚229螃蟹 红
+bounds:99,2,10,19
+offsets:1,1,12,21
+rotate:90
+脚230螃蟹 灰
+bounds:99,2,10,19
+offsets:1,1,12,21
+rotate:90
+脚231螃蟹 金
+bounds:99,2,10,19
+offsets:1,1,12,21
+rotate:90
+脚232螃蟹 粉
+bounds:99,2,10,19
+offsets:1,1,12,21
+rotate:90
+脚25蛙 绿
+bounds:82,263,12,16
+offsets:1,1,14,18
+脚26蛙 蓝
+bounds:82,245,12,16
+offsets:1,1,14,18
+脚27蛙 黄
+bounds:651,122,12,16
+offsets:1,1,14,18
+脚28蛙 红
+bounds:651,104,12,16
+offsets:1,1,14,18
+脚329螃蟹 红
+bounds:541,40,9,19
+offsets:1,1,11,21
+rotate:90
+脚330螃蟹 灰
+bounds:541,40,9,19
+offsets:1,1,11,21
+rotate:90
+脚331螃蟹 金
+bounds:541,40,9,19
+offsets:1,1,11,21
+rotate:90
+脚332螃蟹 粉
+bounds:541,40,9,19
+offsets:1,1,11,21
+rotate:90
+脚429螃蟹 红
+bounds:627,103,9,19
+offsets:1,1,11,21
+rotate:90
+脚430螃蟹 灰
+bounds:627,103,9,19
+offsets:1,1,11,21
+rotate:90
+脚431螃蟹 金
+bounds:627,103,9,19
+offsets:1,1,11,21
+rotate:90
+脚432螃蟹 粉
+bounds:627,103,9,19
+offsets:1,1,11,21
+rotate:90
+脚5刺猬 棕
+bounds:583,93,8,13
+offsets:1,1,10,15
+rotate:90
+脚7刺猬 黑色
+bounds:583,93,8,13
+offsets:1,1,10,15
+rotate:90
+脚8刺猬 金
+bounds:583,93,8,13
+offsets:1,1,10,15
+rotate:90
+脚6刺猬 蓝色
+bounds:144,101,8,13
+offsets:1,1,10,15
+脚勇者
+bounds:299,2,19,25
+offsets:1,1,21,27
+rotate:90
+脚面包人
+bounds:545,5,7,15
+offsets:1,1,9,17
+rotate:90
+腮红10蝙蝠 紫
+bounds:598,296,50,14
+offsets:1,1,52,16
+腮红11蝙蝠 黑
+bounds:598,296,50,14
+offsets:1,1,52,16
+腮红12蝙蝠 红
+bounds:598,296,50,14
+offsets:1,1,52,16
+腮红9蝙蝠 蓝
+bounds:598,296,50,14
+offsets:1,1,52,16
+腮红13蝴蝶 黄
+bounds:604,161,41,13
+offsets:1,1,43,15
+腮红14蝴蝶 蓝
+bounds:527,147,41,13
+offsets:1,1,43,15
+腮红15蝴蝶 白
+bounds:527,147,41,13
+offsets:1,1,43,15
+腮红16蝴蝶 绿
+bounds:533,132,41,13
+offsets:1,1,43,15
+腮红17鼠 灰
+bounds:205,463,15,14
+offsets:1,1,17,16
+rotate:90
+腮红18鼠 棕
+bounds:537,77,15,14
+offsets:1,1,17,16
+腮红19鼠 黑
+bounds:537,77,15,14
+offsets:1,1,17,16
+腮红20鼠 一只耳
+bounds:537,77,15,14
+offsets:1,1,17,16
+腮红25蛙 绿
+bounds:155,9,54,20
+offsets:1,1,56,22
+腮红26蛙 蓝
+bounds:155,9,54,20
+offsets:1,1,56,22
+腮红27蛙 黄
+bounds:155,9,54,20
+offsets:1,1,56,22
+腮红28蛙 红
+bounds:155,9,54,20
+offsets:1,1,56,22
+腮红29螃蟹 红
+bounds:425,312,42,13
+offsets:1,1,44,15
+rotate:90
+腮红30螃蟹 灰
+bounds:425,312,42,13
+offsets:1,1,44,15
+rotate:90
+腮红31螃蟹 金
+bounds:425,312,42,13
+offsets:1,1,44,15
+rotate:90
+腮红32螃蟹 粉
+bounds:650,268,42,13
+offsets:1,1,44,15
+rotate:90
+腮红37蜜蜂 黄
+bounds:646,221,45,14
+offsets:1,1,47,16
+rotate:90
+腮红38蜜蜂 橙
+bounds:646,221,45,14
+offsets:1,1,47,16
+rotate:90
+腮红39蜜蜂 粉
+bounds:646,221,45,14
+offsets:1,1,47,16
+rotate:90
+腮红40蜜蜂
+bounds:413,139,45,14
+offsets:1,1,47,16
+rotate:90
+腮红5刺猬 棕
+bounds:394,59,33,41
+offsets:1,1,35,43
+腮红6刺猬 蓝色
+bounds:394,59,33,41
+offsets:1,1,35,43
+腮红7刺猬 黑色
+bounds:394,59,33,41
+offsets:1,1,35,43
+腮红8刺猬 金
+bounds:394,59,33,41
+offsets:1,1,35,43
+色彩面包人
+bounds:214,73,72,72
+蛙 影子
+bounds:521,206,39,18
+蜜蜂 影子
+bounds:521,206,39,18
+蝙蝠 影子
+bounds:521,206,39,18
+蝴蝶 影子
+bounds:521,206,39,18
+鸟 影子1
+bounds:521,206,39,18
+鼠 影子
+bounds:521,206,39,18
+蜜蜂37蜜蜂 黄
+bounds:157,309,62,92
+蜜蜂38蜜蜂 橙
+bounds:294,519,62,92
+rotate:90
+蜜蜂39蜜蜂 粉
+bounds:294,455,62,92
+rotate:90
+蜜蜂40蜜蜂
+bounds:388,489,62,92
+蝙蝠10蝙蝠 紫
+bounds:534,514,69,80
+rotate:90
+蝙蝠11蝙蝠 黑
+bounds:221,343,69,80
+蝙蝠12蝙蝠 红
+bounds:538,443,69,80
+rotate:90
+蝙蝠9蝙蝠 蓝
+bounds:82,163,69,80
+蝴蝶13蝴蝶 黄
+bounds:155,31,57,83
+offsets:0,1,57,84
+蝴蝶14蝴蝶 蓝
+bounds:214,14,57,83
+offsets:0,1,57,84
+rotate:90
+蝴蝶15蝴蝶 白
+bounds:96,14,57,84
+蝴蝶16蝴蝶 绿
+bounds:219,147,57,84
+rotate:90
+螃蟹 影子
+bounds:192,480,97,27
+rotate:90
+身体29螃蟹 红
+bounds:153,160,80,64
+offsets:0,0,80,65
+rotate:90
+身体30螃蟹 灰
+bounds:292,343,80,64
+offsets:0,0,80,65
+rotate:90
+身体31螃蟹 金
+bounds:358,356,80,64
+offsets:0,0,80,65
+身体32螃蟹 粉
+bounds:452,513,80,70
+身体5刺猬 棕
+bounds:2,579,106,84
+身体6刺猬 蓝色
+bounds:2,493,106,84
+身体7刺猬 黑色
+bounds:110,579,106,84
+身体8刺猬 金
+bounds:2,407,106,84
+身体勇者
+bounds:521,226,44,40
+offsets:1,1,46,42
+雨滴面包人
+bounds:288,73,9,9
+鼻子10蝙蝠 紫
+bounds:589,75,16,13
+offsets:1,1,18,15
+rotate:90
+鼻子11蝙蝠 黑
+bounds:589,75,16,13
+offsets:1,1,18,15
+rotate:90
+鼻子12蝙蝠 红
+bounds:589,75,16,13
+offsets:1,1,18,15
+rotate:90
+鼻子9蝙蝠 蓝
+bounds:589,75,16,13
+offsets:1,1,18,15
+rotate:90
