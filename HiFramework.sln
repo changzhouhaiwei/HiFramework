@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spine-unity", "spine-unity.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spine-csharp", "spine-csharp.csproj", "{c59ceffb-21aa-4923-dc28-ffee4cff634c}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AimingRig", "AimingRig.csproj", "{6307a439-1a32-5540-9a76-bd05465cc849}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.InputSystem.TestFramework", "Unity.InputSystem.TestFramework.csproj", "{4a3f9152-f35d-9829-dd53-6701d6cddd4b}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Timeline.Editor", "Unity.Timeline.Editor.csproj", "{d1199e20-81d7-3236-76b9-435614ec9eec}"
@@ -92,6 +94,8 @@ Global
 		{4c775510-0175-e319-282c-15f0a4b4c330}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{c59ceffb-21aa-4923-dc28-ffee4cff634c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{c59ceffb-21aa-4923-dc28-ffee4cff634c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6307a439-1a32-5540-9a76-bd05465cc849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6307a439-1a32-5540-9a76-bd05465cc849}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4a3f9152-f35d-9829-dd53-6701d6cddd4b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4a3f9152-f35d-9829-dd53-6701d6cddd4b}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{d1199e20-81d7-3236-76b9-435614ec9eec}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
