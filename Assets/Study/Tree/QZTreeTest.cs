@@ -49,7 +49,7 @@ public class QZTreeTest : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.K))
         {
-            m_dic["Button123"].UpdateRes(true);
+            m_dic["Button111"].UpdateRes(true);
         }
     }
 }
