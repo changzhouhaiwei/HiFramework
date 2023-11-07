@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
 public class ImageTouchTest : MonoBehaviour
@@ -13,15 +14,17 @@ public class ImageTouchTest : MonoBehaviour
         {
             eventTrigger = gameObject.AddComponent<EventTrigger>();
         }
-        // eventTrigger.OnPointerClick += OnPointerClick;
-        // eventTrigger.
-        // eventTrigger.
+
+        EventTrigger.Entry enter = new EventTrigger.Entry();
+        enter.eventID = EventTriggerType.PointerClick;
+        enter.callback.AddListener(OnPointerClick);
+        eventTrigger.triggers.Add(enter);
     }
 
 
-    void OnPointerClick(PointerEventData eventData)
+    public void OnPointerClick(BaseEventData eventData)
     {
-        
+        Debug.Log("点击");
     }
     // Update is called once per frame
     void Update()
