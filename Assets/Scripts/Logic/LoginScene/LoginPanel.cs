@@ -36,7 +36,8 @@ namespace Logic
                 {
                     image.sprite = sprite;
                 }
-                LoginHomeScene();
+                // LoginHomeScene();
+                LoginTODOScene();
             }else if(target == m_uiInfo["testBtn"])
             {
                 Debug.Log("hellowade2");
@@ -46,6 +47,11 @@ namespace Logic
         private void LoginHomeScene()
         {
             TSceneMgr.Inst.OpenSceneAsync("HomeScene",typeof(HomeSceneNode));
+        }
+
+        private void LoginTODOScene()
+        {
+            TSceneMgr.Inst.OpenSceneAsync("TODOScene", typeof(TODOScene));
         }
         
         // Update is called once per frame

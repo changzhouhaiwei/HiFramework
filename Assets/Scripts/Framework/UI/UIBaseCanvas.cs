@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -15,7 +16,24 @@ namespace YQFM
             Debug.Log("UIBaseCanvas Start");
             m_canvas = GetComponent<Canvas>();
         }
-        
+
+        void FixCanvas()
+        {
+            var rectTran = GetComponent<RectTransform>();
+            rectTran.localScale = Vector3.one;
+            
+            //设置子界面扩展开
+            rectTran.SetInsetAndSizeFromParentEdge(RectTransform.Edge.Left, 0, 0);
+            rectTran.SetInsetAndSizeFromParentEdge(RectTransform.Edge.Top, 0, 0);
+            rectTran.anchorMin = Vector2.zero;
+            rectTran.anchorMax = Vector2.one;
+        }
+
+        private void Awake()
+        {
+            FixCanvas();
+        }
+
         protected void SetZorder()
         {
             
